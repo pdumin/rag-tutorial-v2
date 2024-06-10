@@ -4,7 +4,7 @@ backup
 chroma
 .venv
 book.pdf
-data/sdlbook.pdf
+data
 .vscode/settings.json
 populate_database.py
 query_data.py
